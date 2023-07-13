@@ -1,6 +1,6 @@
 # errorHandling
 In this file we are handling the error using require(), revert() and assert() function.
-'''
+```
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.18;
 contract Error {
@@ -17,7 +17,7 @@ contract Error {
         assert(num==0);
     }
 }
-'''
+```
 
 
 
